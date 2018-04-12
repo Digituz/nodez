@@ -1,0 +1,26 @@
+{
+  "name": "@digituz/nodez",
+  "version": "1.0.0",
+  "description": "Deploy Node.js projects with ease.",
+  "main": "src/index.js",
+  "bin": {
+    "nodez": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Digituz/nodez.git"
+  },
+  "keywords": ["node", "docker", "digituz"],
+  "author": "Bruno Krebs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Digituz/nodez/issues"
+  },
+  "homepage": "https://github.com/Digituz/nodez#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}
