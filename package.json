@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/Digituz/nodez.git"
   },
-  "keywords": ["node", "docker", "digituz"],
+  "keywords": [
+    "node",
+    "docker",
+    "digituz"
+  ],
   "author": "Bruno Krebs",
   "license": "MIT",
   "bugs": {
@@ -21,6 +25,7 @@
   },
   "homepage": "https://github.com/Digituz/nodez#readme",
   "dependencies": {
-    "command-line-args": "^5.0.2"
+    "command-line-args": "^5.0.2",
+    "request": "^2.85.0"
   }
 }
